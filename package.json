@@ -7,15 +7,15 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "daisyui": "^2.38.1",
-    "firebase": "^9.13.0",
+    "firebase": "^9.15.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet-async": "^1.3.0",
-    "react-icons": "^4.6.0",
-    "react-photo-view": "^1.2.2",
-    "react-router-dom": "^6.4.3",
+    "react-icons": "^4.7.1",
+    "react-photo-view": "^1.2.3",
+    "react-router-dom": "^6.5.0",
     "react-scripts": "5.0.1",
-    "sweetalert2": "^11.6.7",
+    "sweetalert2": "^11.6.16",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -46,5 +46,17 @@
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.2"
-  }
+  },
+  "description": "Live Link of the website: https://capture-the-world-dd22c.web.app \r Website features: \r   1. You can log in and leave reviews \r   2. You can add services if you want\r   3. You can see your reviews and delete them also\r   4. When you click on the pic, it zooms in\r   5. When you click read more, it takes you into a more detailed page.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marufccs/capture-the-world-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marufccs/capture-the-world-client/issues"
+  },
+  "homepage": "https://github.com/marufccs/capture-the-world-client#readme"
 }
